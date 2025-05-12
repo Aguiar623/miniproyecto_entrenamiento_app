@@ -7,4 +7,6 @@ despues se ejecutando los comandos en consola( recordar instalar flutter sdk y a
 1) flutter clean,
 2) flutter pub get  , se actualizara y creara de nuevo los archivos temporales
 
-de esta manera queda listo para compilar
+de esta manera queda listo para compilar con
+
+3) Flutter run
