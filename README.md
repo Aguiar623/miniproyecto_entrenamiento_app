@@ -1,7 +1,6 @@
 # miniproyecto_entrenamiento_app
 
 1) Descripcion:
-
 Se presenta el desarrollo de una aplicación móvil de entrenamiento personal diseñada para combatir el sedentarismo y la falta de motivación física, la aplicación permite a los usuarios monitorear su rendimiento en tiempo real, recibir alertas de pasos y mantener un historial de actividad. 
 La solución busca promover hábitos saludables mediante un acceso fácil y personalizado desde dispositivos móviles Android & Ios
 
