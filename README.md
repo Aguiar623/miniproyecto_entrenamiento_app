@@ -56,4 +56,6 @@ flutter pub get  , se actualizara y creara de nuevo los archivos temporales
 de esta manera queda listo para compilar con:
 3.6.2) Flutter run
 
+Todos los archivos del proyecto estan en la carpeta LIB
+
 4) Capturas de Pantalla
