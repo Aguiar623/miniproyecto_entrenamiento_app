@@ -37,7 +37,7 @@ Descargar desde: https://flutter.dev/docs/get-started/install
 3.2)Clonar o descargar el proyecto
 git clone https://github.com/usuario/proyecto_entrenamiento.git
 cd proyecto_entrenamiento
-Descomprimir y abrir la carpeta entrenamiento_app desde android studio ( revisar que en la carpeta no halla subcarpetas entrenamiento_app )
+Descomprimir y abrir la carpeta entrenamiento_app desde android studio ( revisar que en la carpeta no halla subcarpetas entrenamiento_app ) debe queda entrenamiento_app -> archivos del proyecto y no entrenamiento_app -> entrenamiento_app -> archivos del proyecto
 
 3.3)Instalar dependencias
 Ejecutar en la raíz del proyecto:
