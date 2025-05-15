@@ -57,6 +57,7 @@ flutter pub get  , se actualizara y creara de nuevo los archivos temporales
 de esta manera queda listo para compilar con:
 3.6.2) Flutter run
 
-Todos los archivos del proyecto estan en la carpeta LIB
+Todos los archivos del proyecto estan en la carpeta LIB , si no salen estos archivos en la parte izquierda superior debe salir el nombre de projects , si sale android
+undirle click y cambiarla a project o projects donde estan los archivos del codigo 
 
-4) Capturas de Pantalla
+
